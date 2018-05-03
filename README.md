@@ -1,14 +1,29 @@
-# Hello World! 
+# Greg Kreisman
+# 哥龙
 
-This is a great new site.
-p.s. gh-pages rock!
-
-This is a new paragraph.
-This is not a new paragraph
-
-I have to learn markdown github flavor!!!
-
+##Making marks on various materials
 List:
-- code
-- calligraphy
-- painting
+- paper
+- stone
+- metal
+
+##Studying Chinese Calligraphy
+##学习书法
+List:
+- 隶书
+- 篆书
+- 楷书
+- 行书
+
+##Coding in Python
+List:
+- solving problems 
+- making apps
+- applying code to education
+
+##Education
+List:
+- teaching English
+- teacing Chinese
+- teaching coding
+- teaching art
