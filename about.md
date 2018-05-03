@@ -2,6 +2,8 @@
 title: About
 ---
 
+![alt text](trike.jpg)
+
 ## Greg Kreisman
 ## 哥龍
 
@@ -11,7 +13,9 @@ eyes and expresses his impressions through an East-West hybrid aesthetic.  He pl
 Chinese images and elements by staging them among the figures and phenomena of modern Beijing life and his own 
 misunderstandings.
 
+![alt text](shadow.jpg)
+
 ### Any mainstream appreaciation of his work is dependant on contact with an extraterrestrial culture.  
 
 
-See the [Home page](/website2/README.md)
+See the [Home page](README.md)
