@@ -1,27 +1,27 @@
 # Greg Kreisman
 # 哥龙
 
-##Making marks on various materials
+## Making marks on various materials
 List:
 - paper
 - stone
 - metal
 
-##Studying Chinese Calligraphy
-##学习书法
+## Studying Chinese Calligraphy
+## 学习书法
 List:
 - 隶书
 - 篆书
 - 楷书
 - 行书
 
-##Coding in Python
+## Coding in Python
 List:
 - solving problems 
 - making apps
 - applying code to education
 
-##Education
+## Education
 List:
 - teaching English
 - teacing Chinese
