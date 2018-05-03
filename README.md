@@ -1,6 +1,8 @@
 # Greg Kreisman
 # 哥龍
 
+![alt text](student.png)
+
 ## Making marks on various materials
  
 - paper
@@ -27,3 +29,5 @@
 - teacing Chinese
 - teaching coding
 - teaching art
+
+[About](about.md)
